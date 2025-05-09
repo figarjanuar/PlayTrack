@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/license/mac/route": "app/api/license/mac/route.js",
+  "/api/reports/export/route": "app/api/reports/export/route.js",
+  "/api/license/info/route": "app/api/license/info/route.js",
+  "/api/reports/route": "app/api/reports/route.js",
+  "/api/scan/route": "app/api/scan/route.js",
+  "/api/session/extend/route": "app/api/session/extend/route.js",
+  "/api/settings/route": "app/api/settings/route.js",
+  "/api/tv/route": "app/api/tv/route.js",
+  "/api/session/stop/route": "app/api/session/stop/route.js",
+  "/api/license/upload/route": "app/api/license/upload/route.js",
+  "/reports/page": "app/reports/page.js",
+  "/api/session/status/[tvId]/route": "app/api/session/status/[tvId]/route.js",
+  "/tvs/page": "app/tvs/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/settings/page": "app/settings/page.js",
+  "/page": "app/page.js",
+  "/api/session/start/route": "app/api/session/start/route.js"
+}
